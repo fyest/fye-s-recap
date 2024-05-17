@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat',sans-serif;
+}
+p {
+    font-family: 'Nunito',sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: #6c757d;
+}
+.h-p {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.bg-sec {
+    background: #F8F9FA;
+}
+header {
+    position: sticky;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/pexels-pixabay-164938.jpg');
+}
+a {
+    text-decoration: none;
+    color: #6c757d;
+}
+
